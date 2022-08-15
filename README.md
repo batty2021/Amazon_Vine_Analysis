@@ -25,6 +25,10 @@ The total paid and unpaid office products rerviews are 2,642,215  , from this 49
 # unpaid 5-star reviews percentage
 60%
 
+![Amazond](https://user-images.githubusercontent.com/77947860/184723512-c6794d9c-9d39-4ff0-80a8-440100a869d1.png)
+
+![image](https://user-images.githubusercontent.com/77947860/184723835-fb2b3b31-0c7c-4041-976d-96469df32935.png)
+
 # summary
 49% of the reviews in the paid program were 5 stars reviews whereas the percentage in the unpaid reviews is  60%. This describes a positivity bias for reviews in the unpaid programs.
 Additionally we could analyse the statistical distribution (mean, median and mode) of the star rating for the Vine and non-Vine reviews.
